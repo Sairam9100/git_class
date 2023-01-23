@@ -1,2 +1,3 @@
 Hello how are you?
 Two lines are removed.
+Yes it is
