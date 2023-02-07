@@ -1,5 +1,6 @@
 Hello how are you?
 Two lines are removed.
 Yes it is
-for stashing
-For stash pop
+done
+something is changed
+ok
